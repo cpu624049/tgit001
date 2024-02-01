@@ -1,3 +1,12 @@
 
 
+<<<<<<< HEAD
 11b
+=======
+adfasdf
+
+asd
+
+
+asdfafab
+>>>>>>> branch1
